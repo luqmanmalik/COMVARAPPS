@@ -1,2 +1,4 @@
-# IABAL
-Abstract Algebra: Theory and Application, Judson (2015)
+## Complex Variables and Applications: Ninth Edition
+### Brown and Chruchill
+#### Solutions
+(UCB: Introduction to Complex Analysis)
